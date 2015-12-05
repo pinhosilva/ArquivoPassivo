@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0 - Apresentacao", "0 - Apresentacao", "{50462A5E-29B9-4AAE-9B22-6145AE7B1ACE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Servicos", "1 - Servicos", "{F355AD26-8A19-4763-8D60-E44ED2DA3413}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Aplicacao", "2 - Aplicacao", "{9DA30A78-1BB5-4691-BDD3-415B17135757}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Dominio", "3 - Dominio", "{FA2D7144-89DE-428B-B3B1-C09214DE12C1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Infra", "4 - Infra", "{3E570C01-C16A-47A8-802B-184CA3BE5736}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.1 - Dados", "4.1 - Dados", "{7CD9B604-53AD-4657-878B-391FED41576A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.2 - CrossCutting", "4.2 - CrossCutting", "{5239C879-6E9A-4FEC-866D-E3B0A9466C59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GAP-Arquivamento.Dominio", "GAP-Arquivamento.Dominio\GAP-Arquivamento.Dominio.csproj", "{14FE537F-B221-42B0-881E-34402C353A79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GAP-Arquivamento.Infra.Dados", "GAP-Arquivamento.Infra.Dados\GAP-Arquivamento.Infra.Dados.csproj", "{2C8A91AF-8CB8-4DFF-8534-92661CE88483}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GAP-Arquivamento.Aplicacao", "GAP-Arquivamento.Aplicacao\GAP-Arquivamento.Aplicacao.csproj", "{88BAAA60-3530-4B02-B944-FE58FFA698E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GAP.ArquivoPassivo", "GAP.ArquivoPassivo\GAP.ArquivoPassivo.csproj", "{570FF945-FC8D-4B9F-BC2A-967D79C726D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14FE537F-B221-42B0-881E-34402C353A79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14FE537F-B221-42B0-881E-34402C353A79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14FE537F-B221-42B0-881E-34402C353A79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14FE537F-B221-42B0-881E-34402C353A79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C8A91AF-8CB8-4DFF-8534-92661CE88483}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C8A91AF-8CB8-4DFF-8534-92661CE88483}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C8A91AF-8CB8-4DFF-8534-92661CE88483}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C8A91AF-8CB8-4DFF-8534-92661CE88483}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88BAAA60-3530-4B02-B944-FE58FFA698E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88BAAA60-3530-4B02-B944-FE58FFA698E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88BAAA60-3530-4B02-B944-FE58FFA698E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88BAAA60-3530-4B02-B944-FE58FFA698E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{570FF945-FC8D-4B9F-BC2A-967D79C726D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{570FF945-FC8D-4B9F-BC2A-967D79C726D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{570FF945-FC8D-4B9F-BC2A-967D79C726D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{570FF945-FC8D-4B9F-BC2A-967D79C726D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7CD9B604-53AD-4657-878B-391FED41576A} = {3E570C01-C16A-47A8-802B-184CA3BE5736}
+		{5239C879-6E9A-4FEC-866D-E3B0A9466C59} = {3E570C01-C16A-47A8-802B-184CA3BE5736}
+		{14FE537F-B221-42B0-881E-34402C353A79} = {FA2D7144-89DE-428B-B3B1-C09214DE12C1}
+		{2C8A91AF-8CB8-4DFF-8534-92661CE88483} = {7CD9B604-53AD-4657-878B-391FED41576A}
+		{88BAAA60-3530-4B02-B944-FE58FFA698E6} = {9DA30A78-1BB5-4691-BDD3-415B17135757}
+		{570FF945-FC8D-4B9F-BC2A-967D79C726D1} = {50462A5E-29B9-4AAE-9B22-6145AE7B1ACE}
+	EndGlobalSection
+EndGlobal

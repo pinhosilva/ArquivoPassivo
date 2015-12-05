@@ -1,0 +1,12 @@
+C:\Users\MSHOME\documents\visual studio 2013\Projects\GAP-Arquivamento\GAP-Arquivamento.Infra.Dados\bin\Debug\GAP-Arquivamento.Infra.Dados.dll.config
+C:\Users\MSHOME\documents\visual studio 2013\Projects\GAP-Arquivamento\GAP-Arquivamento.Infra.Dados\bin\Debug\GAP-Arquivamento.Infra.Dados.dll
+C:\Users\MSHOME\documents\visual studio 2013\Projects\GAP-Arquivamento\GAP-Arquivamento.Infra.Dados\bin\Debug\GAP-Arquivamento.Infra.Dados.pdb
+C:\Users\MSHOME\documents\visual studio 2013\Projects\GAP-Arquivamento\GAP-Arquivamento.Infra.Dados\bin\Debug\EntityFramework.dll
+C:\Users\MSHOME\documents\visual studio 2013\Projects\GAP-Arquivamento\GAP-Arquivamento.Infra.Dados\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSHOME\documents\visual studio 2013\Projects\GAP-Arquivamento\GAP-Arquivamento.Infra.Dados\bin\Debug\GAP-Arquivamento.Dominio.dll
+C:\Users\MSHOME\documents\visual studio 2013\Projects\GAP-Arquivamento\GAP-Arquivamento.Infra.Dados\bin\Debug\GAP-Arquivamento.Dominio.pdb
+C:\Users\MSHOME\documents\visual studio 2013\Projects\GAP-Arquivamento\GAP-Arquivamento.Infra.Dados\bin\Debug\EntityFramework.xml
+C:\Users\MSHOME\documents\visual studio 2013\Projects\GAP-Arquivamento\GAP-Arquivamento.Infra.Dados\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSHOME\documents\visual studio 2013\Projects\GAP-Arquivamento\GAP-Arquivamento.Infra.Dados\obj\Debug\GAP-Arquivamento.Infra.Dados.csprojResolveAssemblyReference.cache
+C:\Users\MSHOME\documents\visual studio 2013\Projects\GAP-Arquivamento\GAP-Arquivamento.Infra.Dados\obj\Debug\GAP-Arquivamento.Infra.Dados.dll
+C:\Users\MSHOME\documents\visual studio 2013\Projects\GAP-Arquivamento\GAP-Arquivamento.Infra.Dados\obj\Debug\GAP-Arquivamento.Infra.Dados.pdb

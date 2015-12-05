@@ -1,0 +1,5 @@
+C:\Users\MSHOME\documents\visual studio 2013\Projects\GAP-Arquivamento\GAP-Arquivamento.Dominio\bin\Debug\GAP-Arquivamento.Dominio.dll
+C:\Users\MSHOME\documents\visual studio 2013\Projects\GAP-Arquivamento\GAP-Arquivamento.Dominio\bin\Debug\GAP-Arquivamento.Dominio.pdb
+C:\Users\MSHOME\documents\visual studio 2013\Projects\GAP-Arquivamento\GAP-Arquivamento.Dominio\obj\Debug\GAP-Arquivamento.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\MSHOME\documents\visual studio 2013\Projects\GAP-Arquivamento\GAP-Arquivamento.Dominio\obj\Debug\GAP-Arquivamento.Dominio.dll
+C:\Users\MSHOME\documents\visual studio 2013\Projects\GAP-Arquivamento\GAP-Arquivamento.Dominio\obj\Debug\GAP-Arquivamento.Dominio.pdb

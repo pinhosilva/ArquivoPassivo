@@ -1,0 +1,4 @@
+C:\Users\MSHOME\documents\visual studio 2013\Projects\GAP-Arquivamento\GAP-Arquivamento.Aplicacao\bin\Debug\GAP-Arquivamento.Aplicacao.dll
+C:\Users\MSHOME\documents\visual studio 2013\Projects\GAP-Arquivamento\GAP-Arquivamento.Aplicacao\bin\Debug\GAP-Arquivamento.Aplicacao.pdb
+C:\Users\MSHOME\documents\visual studio 2013\Projects\GAP-Arquivamento\GAP-Arquivamento.Aplicacao\obj\Debug\GAP-Arquivamento.Aplicacao.dll
+C:\Users\MSHOME\documents\visual studio 2013\Projects\GAP-Arquivamento\GAP-Arquivamento.Aplicacao\obj\Debug\GAP-Arquivamento.Aplicacao.pdb
